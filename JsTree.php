@@ -1,6 +1,6 @@
 <?php
 
-namespace common\components\jstree;
+namespace sammaye\jstree;
 
 use Yii;
 use yii\helpers\Json;

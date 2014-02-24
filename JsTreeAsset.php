@@ -1,5 +1,5 @@
 <?php
-namespace common\components\jstree;
+namespace sammaye\jstree;
 
 use Yii;
 use yii\web\AssetBundle;
