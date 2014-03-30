@@ -6,7 +6,7 @@ use Yii;
 use yii\helpers\Json;
 use yii\helpers\Html;
 use yii\widgets\InputWidget;
-use common\components\jstree\JsTreeAsset;
+use sammaye\jstree\JsTreeAsset;
 
 class JsTree extends InputWidget
 {
