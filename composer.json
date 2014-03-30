@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "dev-master"
+        "yiisoft/yii2": "dev-master",
+        "sammaye/nestedsetbehavior": "*"
     },
     "autoload": {
         "psr-4": {"sammaye\\": ""}
