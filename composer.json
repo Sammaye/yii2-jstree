@@ -15,6 +15,6 @@
         "sammaye/nestedsetbehavior": "*"
     },
     "autoload": {
-        "psr-4": {"sammaye\\jstree": ""}
+        "psr-4": {"sammaye\\jstree\\": ""}
     }
 }
